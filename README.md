@@ -7,4 +7,4 @@
  
 Tech Stack:
 Frontend: React.js, Redux, JavaScript, HTML, CSS, Context API, Jest, Cypress, Axios, Tailwind CSS, TypeScript
-Backend: Node.js, Express, SQL, PostgreSQL, SQLite, Knex, GitHub, VS Code, Vercel, Heroku, RESTful APIs
+Backend: Node.js, Express, SQL, PostgreSQL, SQLite, Knex, Vercel, Heroku, RESTful APIs
